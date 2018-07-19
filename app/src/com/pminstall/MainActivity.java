@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText filePathEd;
     ApplicationManager am;
     static String TAG = "MainActivity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
